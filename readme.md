@@ -1,10 +1,10 @@
-#Website Compiler for SEPR-Team-Margaret
+# Website Compiler for SEPR-Team-Margaret
 
-##How to Use
+## How to Use
 
-#Compilcation
+# Compilcation
 Install jinja 2
 Run compile.py
 
-#Modification of templates
+# Modification of templates
 The compiler uses the jinja templating system
