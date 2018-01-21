@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<ul class="collapsible" data-collapsible="accordion">
+    <li>
+      <div class="collapsible-header active"><i class="material-icons">expand_more</i>Assessment 1 Resources</div>
+      <div class="collapsible-body">
+		<ul class="collection">
+			<a href="/content/Arch1.pdf">
+				<li class="collection-item avatar">
+					<i class="material-icons circle blue large">description</i>
+					<span class="title black-text">Change report</span>
+					<p class="grey-text">First Line</p>
+				</li>
+			</a>
+			<a href="/content/Plan1.pdf">
+				<li class="collection-item avatar">
+					<i class="material-icons circle blue large">description</i>
+					<span class="title black-text">Implementation report</span>
+					<p class="grey-text">First Line</p>
+				</li>
+			</a>
+			<a href="/content/Req1.pdf">
+				<li class="collection-item avatar">
+					<i class="material-icons circle blue large">games</i>
+					<span class="title black-text">Executable</span>
+					<p class="grey-text">First Line</p>
+				</li>
+			</a>
+		</ul>
+	  
+	  </div>
+    </li>
+</ul>
+
+{% endblock %}

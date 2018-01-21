@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Laser Dolphin Games</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Compiled and minified materialize CSS -->
+<link rel="stylesheet" href="css/materialize.css">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="css/custom.css">
+<!-- Google Material Design Icons -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+<!--Favicon-->
+<link rel="apple-touch-icon" sizes="180x180" href="static/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16x16.png">
+<link rel="manifest" href="static/manifest.json">
+<link rel="mask-icon" href="static/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="static/favicon.ico">
+<meta name="msapplication-config" content="static/browserconfig.xml">
+
+</head>
+<body>
+<!-- Dropdown Structure -->
+<ul id="dropdown1" class="dropdown-content">
+	<li><a href="asm1.html">Assessment 1</a></li>
+	<li><a href="asm2.html">Assessment 2</a></li>
+	<li><a href="asm3.html">Assessment 3</a></li>
+	<li><a href="asm4.html">Assessment 4</a></li>
+</ul>
+<nav class="nav-extended">
+    <div class="nav-wrapper">
+		<a href="index.html" class="brand-logo left"><img class="brand-logo hide-on-med-and-down" src="static/logo.svg"></a>
+		<a href="#" data-activates="slide-out" class="button-collapse"><i class=" large material-icons">menu</i></a>
+		<ul id="nav-mobile" class="hide-on-med-and-down">
+			<li style="padding-left:96px;"><a href="index.html" class="active white-text">Home</a></li>
+			<li><a class="grey-text" href="about.html">About Us</a></li>
+			<li><a class="dropdown-button grey-text" data-beloworigin="true" href="#!" data-activates="dropdown1">Assessments<i class="material-icons right" style="margin-left: 0px!important;">arrow_drop_down</i></a></li>
+			<li><a class="grey-text" href="https://github.com/SEPR-Team-Margaret/UniversityDomination">Source Code</a></li>
+			<li><a class="grey-text" href="https://docs.google.com/a/york.ac.uk/spreadsheets/d/11NNjvenq0gTta2dcQxxmluznd9xA3Oe9EsYfJGzJJSA/edit?usp=sharing">Schedule</a></li>
+		</ul>
+	</div>
+</nav>
+
+<div>
+	<ul id="slide-out" class="side-nav">
+		<li><div class="user-view">
+			<div class="background">
+				<img src="https://d1yn1kh78jj1rr.cloudfront.net/image/thumbnail/rDtN98Qoishumwih/vector-geometric-pattern-with-geometric-shapes_fyIHrTcO_thumb.jpg">
+			</div>
+			&nbsp;
+			&nbsp;
+			&nbsp;
+			
+		</div></li>
+		<li><a class="waves-effect" href="index.html">Home</a></li>
+		<li><div class="divider"></div></li>
+		<li><a class="waves-effect" href="about.html">About Us</a></li>
+		<li><div class="divider"></div></li>
+		<li><a class="waves-effect" href="asm1.html">Assessment 1</a></li>
+		<li><a class="waves-effect" href="asm2.html">Assessment 2</a></li>
+		<li><a class="waves-effect" href="asm3.html">Assessment 3</a></li>
+		<li><a class="waves-effect" href="asm4.html">Assessment 4</a></li>
+		<li><div class="divider"></div></li>
+		<li><a class="waves-effect" href="https://github.com/SEPR-Team-Margaret/UniversityDomination">Source Code</a></li>
+		<li><div class="divider"></div></li>
+		<li><a class="waves-effect" href="https://docs.google.com/a/york.ac.uk/spreadsheets/d/11NNjvenq0gTta2dcQxxmluznd9xA3Oe9EsYfJGzJJSA/edit?usp=sharing">Schedule</a></li>
+	</ul>
+</div>
+
+<div class="container">
+    <!-- Page Content goes here -->
+	{% block content %}{% endblock %}
+</div>
+
+<!--Import jQuery before materialize.js-->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<!-- Other JS -->
+<script src="js/custom.js"></script>
+</body>
+</html>
