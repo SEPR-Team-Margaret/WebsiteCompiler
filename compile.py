@@ -3,9 +3,9 @@ from jinja2.environment import Environment
 import os
 
 env = Environment()
-env.loader = FileSystemLoader('templates/.')
+env.loader = FileSystemLoader('source/.')
 
-for file in os.listdir("templates"):
+for file in os.listdir("source"):
     if file.endswith(".html"):
         template = env.get_template(file)
         s = template.render()
