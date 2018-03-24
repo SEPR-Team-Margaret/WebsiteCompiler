@@ -14,6 +14,36 @@
 			{"title":"Architecture Document", "icon":"photo","date":"First line", "link":"https://sepr-team-margaret.github.io/content/Prototype1.png"}
 		]}
 		
+	],[
+		{"sectiontitle":"Assessment 2 Resources",
+		"sectiondata":[
+			{"title":"Architecture report", "icon":"description","date":"Added 22 Jan 2018, 03:11 GMT", "link":"/content/Arch2.pdf"},
+			{"title":"Implementation report", "icon":"description","date":"Added 21 Jan 2018, 23:39 GMT", "link":"/content/Impl2.pdf"},
+			{"title":"Executable", "icon":"games","date":"Released 22 Jan 2018, 00:37 GMT", "link":"https://github.com/SEPR-Team-Margaret/UniversityDomination/releases/tag/v.1.0"},
+			{"title":"Graphical User Interface report", "icon":"description","date":"Added 21 Jan 2018, 23:39 GMT", "link":"/content/GUI2.pdf"},
+			{"title":"Testing report", "icon":"description","date":"Updated 22 Jan 2018, 00:18 GMT", "link":"/content/Test2.pdf"},
+			{"title":"Update listing", "icon":"description","date":"Updated 22 Jan 2018, 14:09 GMT", "link":"/content/Updates2.pdf"}
+		]},
+		{"sectiontitle":"Updated Assessment 1 Deliverables",
+		"sectiondata":[
+			{"title":"Requirements document", "icon":"description","date":"Added 21 Jan 2018, 23:11 GMT", "link":"/content/Req1U2.pdf"},
+			{"title":"Method selection and planning document", "icon":"description","date":"Added 21 Jan 2018, 23:11 GMT", "link":"/content/Plan1U2.pdf"},
+			{"title":"Risk assessment and mitigation document", "icon":"description","date":"Added 21 Jan 2018, 23:11 GMT", "link":"/content/Risk1U2.pdf"},
+			{"title":"Updated Gantt Chart", "icon":"timeline","date":"Updated 22 Jan 2018, 14:03 GMT [Link updated, check content for version history]", "link":"https://docs.google.com/a/york.ac.uk/spreadsheets/d/1pdrsGgI43a44hy373MQwDyupTc0J5IFbdG-vdIrdpNg/edit?usp=sharing"}
+		]},
+		{"sectiontitle":"Assessment 2 Extras",
+		"sectiondata":[
+			{"title":"Updated abstract architecture (Limited scope)", "icon":"photo","date":"Added 22 Jan 2018, 00:46 GMT", "link":"content/OOScope1U2.png"},
+			{"title":"Unit test results", "icon":"description","date":"Added 21 Jan 2018, 23:33 GMT", "link":"/content/UnitT2.pdf"},
+			{"title":"GUI testing document", "icon":"description","date":"Updated 22 Jan 2018, 00:20 GMT", "link":"/content/GUIT2.pdf"},
+			{"title":"GUI test results", "icon":"description","date":"Added 21 Jan 2018, 23:58 GMT", "link":"/content/GUITR2.pdf"},
+			{"title":"Test design document", "icon":"description","date":"Added 21 Jan 2018, 23:33 GMT", "link":"/content/TestD2.pdf"},
+			{"title":"Unit Tests", "icon":"perm_media","date":"Added 21 Jan 2018, 23:44 GMT", "link":"/content/UnitTests2.zip"},
+			{"title":"Player Turn Sequence Diagram", "icon":"photo","date":"Added 22 Jan 2018, 00:51 GMT", "link":"/content/PTDiag2.png"},
+			{"title":"Updated Architecture Document", "icon":"description","date":"Added 22 Jan 2018, 01:04 GMT", "link":"/content/Arch1U2.pdf"},
+			{"title":"UML Concrete Architecture Diagram", "icon":"photo","date":"Added 22 Jan 2018, 02:23 GMT", "link":"/content/UMLC2.png"},
+			{"title":"User Manual", "icon":"description","date":"Added 22 Jan 2018, 09:32 GMT", "link":"/content/UM2.pdf"},
+			{"title":"User Manual (Source)", "icon":"description","date":"Updated 22 Jan 2018, 09:32 GMT [Link updated, check content for version history]", "link":"https://docs.google.com/a/york.ac.uk/document/d/1VFXTba_ZufPQBi4Pcp4HEdnH2otyL0B8ox3AqczqXbU/edit?usp=sharing"}
+		]}
 	]
-
 ]}
