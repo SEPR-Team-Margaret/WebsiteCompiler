@@ -45,5 +45,27 @@
 			{"title":"User Manual", "icon":"description","date":"Added 22 Jan 2018, 09:32 GMT", "link":"/content/UM2.pdf"},
 			{"title":"User Manual (Source)", "icon":"description","date":"Updated 22 Jan 2018, 09:32 GMT [Link updated, check content for version history]", "link":"https://docs.google.com/a/york.ac.uk/document/d/1VFXTba_ZufPQBi4Pcp4HEdnH2otyL0B8ox3AqczqXbU/edit?usp=sharing"}
 		]}
+	],[
+		{"sectiontitle":"Assessment 3 Resources",
+		"sectiondata":[
+			{"title":"Change report", "icon":"description","date":"Added 19 Feb 2018, 01:36 GMT", "link":"/content/Chan3.pdf"},
+			{"title":"Implementation report", "icon":"description","date":"Updated 19 Feb 2018, 11:48 GMT", "link":"/content/Impl3.pdf"},
+			{"title":"Executable Download", "icon":"games","date":"Updated 19 Feb 2018 11:52 GMT", "link":"/content/Build03.zip"},
+			{"title":"GUI Report", "icon":"description","date":"Added 18 Feb 2018, 23:51 GMT", "link":"/content/GUI3.pdf"},
+			{"title":"Methods Document", "icon":"description","date":"Added 19 Feb 2018, 01:42 GMT", "link":"/content/Meth3.pdf"},
+			{"title":"Testing Report", "icon":"description","date":"Updated 19 Feb 2018, 11:25 GMT", "link":"/content/Test3.pdf"},
+			{"title":"Risk Assessment", "icon":"description","date":"Added 18 Feb 2018, 23:51 GMT", "link":"/content/Risk3.pdf"},
+			{"title":"User Manual", "icon":"description","date":"Added 19 Feb 2018, 11:38 GMT", "link":"/content/User3.pdf"}
+		]},
+		{"sectiontitle":"Assessment 3 Extras",
+		"sectiondata":[
+			{"title":"Debug Tests Spreadsheet", "icon":"description","date":"Added 19 Feb 2018, 01:49 GMT", "link":"https://docs.google.com/spreadsheets/d/1PXLIjwJtNB-7d3w3rADbcvFgGOfSD286wwnDMj3Ib7k/edit?usp=sharing"},
+			{"title":"Tracibility Spreadsheet", "icon":"description","date":"Added 19 Feb 2018, 01:49 GMT", "link":"https://docs.google.com/spreadsheets/d/1y8bav7AK3Zen4NJuNlf_A-K6hLMazjyxcAfqppaMoW0/edit?usp=sharing"},
+			{"title":"Test Results", "icon":"description","date":"Added 19 Feb 2018, 10:23 GMT", "link":"/content/TestM3.pdf"},
+			{"title":"Testing Outline", "icon":"description","date":"Added 19 Feb 2018, 00:01 GMT", "link":"/content/TestO3.pdf"},
+			{"title":"Original Group's Website", "icon":"insert_link","date":"Added 19 Feb 2018, 00:04 GMT [3rd Party Site; reliablity not assured]", "link":"http://risk-assessment.my-free.website/"},
+			{"title":"User Manual Source", "icon":"description","date":"Updated 18 Feb 2018, 23:57 GMT [Link updated, check content for version history]", "link":"https://docs.google.com/document/d/187j4dOEtA9fz2VKJk6g35fn3R3CqCU7qC9SebunoDFE/edit?usp=sharing"}
+		]}
+	
 	]
 ]}
