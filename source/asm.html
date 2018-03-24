@@ -4,7 +4,11 @@
 <ul class="collapsible" data-collapsible="accordion">
 	{% for section in asmdata %}
     <li>
+	  {% if loop.first %}
       <div class="collapsible-header active"><i class="material-icons">expand_more</i>{{ section.sectiontitle }}</div>
+	  {% else %}
+	  <div class="collapsible-header"><i class="material-icons">expand_more</i>{{ section.sectiontitle }}</div>
+	  {% endif %}
       <div class="collapsible-body">
 		<ul class="collection">
 			{% for item in section.sectiondata %}
