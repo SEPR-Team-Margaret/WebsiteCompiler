@@ -2,16 +2,16 @@
 	[
 		{"sectiontitle":"Assessment 1 Resources",
 		"sectiondata":[
-			{"title":"Architecture Document", "icon":"description","date":"Updated 8 Nov 2017, 10:21 GMT", "link":"https://sepr-team-margaret.github.io/content/Arch1.pdf"},
-			{"title":"Method selection and planning document", "icon":"description","date":"Updated 7 Nov 2017, 14:40 GMT", "link":"https://sepr-team-margaret.github.io/content/Plan1.pdf"},
-			{"title":"Requirements document", "icon":"description","date":"Updated 8 Nov 2017, 10:21 GMT", "link":"https://sepr-team-margaret.github.io/content/Risk1.pdf"},
-			{"title":"Risk assessment and mititgation document", "icon":"description","date":"Updated 7 Nov 2017, 14:40 GMT", "link":"https://sepr-team-margaret.github.io/content/Arch1.pdf"}
+			{"title":"Architecture Document", "icon":"description","date":"Updated 8 Nov 2017, 10:21 GMT", "link":"/content/Arch1.pdf"},
+			{"title":"Method selection and planning document", "icon":"description","date":"Added 7 Nov 2017, 14:40 GMT", "link":"/content/Plan1.pdf"},
+			{"title":"Requirements document", "icon":"description","date":"Updated 8 Nov 2017, 10:21 GMT", "link":"/content/Req1.pdf"},
+			{"title":"Risk assessment and mitigation document", "icon":"description","date":"Added 7 Nov 2017, 14:40 GMT", "link":"/content/Risk1.pdf"}
 		]},
 		{"sectiontitle":"Assessment 1 Extras",
 		"sectiondata":[
 			{"title":"Gantt Charts", "icon":"timeline","date":"First line", "link":"https://docs.google.com/a/york.ac.uk/spreadsheets/d/11NNjvenq0gTta2dcQxxmluznd9xA3Oe9EsYfJGzJJSA/edit?usp=sharing"},
-			{"title":"Architecture Document", "icon":"description","date":"First line", "link":"https://sepr-team-margaret.github.io/content/Usecase1.pdf"},
-			{"title":"Architecture Document", "icon":"photo","date":"First line", "link":"https://sepr-team-margaret.github.io/content/Prototype1.png"}
+			{"title":"Use case document", "icon":"description","date":"First Line", "link":"/content/Usecase1.pdf"},
+			{"title":"Image of paper prototype", "icon":"photo","date":"First Line", "link":"/content/Prototype1.png"}
 		]}
 		
 	],[
