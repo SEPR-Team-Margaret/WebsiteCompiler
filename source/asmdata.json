@@ -68,5 +68,19 @@
 		]}
 	
 	],
-	[]
+	[
+		{"sectiontitle":"Assessment 4 Resources",
+			"sectiondata":[
+				{"title":"Final Architecture and Traceability Report", "icon":"description","date":"Unavailable", "link":"#"},
+				{"title":"Implementation report", "icon":"description","date":"Unavailable", "link":"#"},
+				{"title":"Evaluation and Testing report", "icon":"description","date":"Unavailable", "link":"#"},
+				{"title":"Project Review Report", "icon":"description","date":"Unavailable", "link":"#"},
+				{"title":"Executable Download", "icon":"games","date":"Unavailable", "link":"#"},
+				{"title":"Source Code", "icon":"games","date":"Github VCS Repository", "link":"https://github.com/SEPR-Team-Margaret/ud-asm4"}
+			]},
+			{"sectiontitle":"Assessment 4 Extras",
+			"sectiondata":[
+				{"title":"Extras", "icon":"description","date":"Unavailable", "link":"#"}
+		]}
+	]
 ]}
