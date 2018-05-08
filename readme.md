@@ -14,4 +14,20 @@ The compiler uses the [jinja](http://jinja.pocoo.org/docs/2.9/) templating syste
 
 Edit pages in the templates directory
 
+To edit the assessment pages, edit the asmdata.json file in the templates directory.
+
+```json
+{"data":[
+  [
+    {"sectiontitle":"",
+     "sectiondata":[
+        {"title":"", "icon":"","date":"", "link":""}
+        // Add multiple items under to one section
+    ]}
+    // Add multiple sections to one page
+  ]
+  // Add multiple pages
+]}
+```
+
 Commit the output files from the 'compiled' directory to the github.io repo
