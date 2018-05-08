@@ -16,7 +16,7 @@ Edit pages in the templates directory
 
 To edit the assessment pages, edit the asmdata.json file in the templates directory.
 
-```json
+```
 {"data":[
   [
     {"sectiontitle":"",
